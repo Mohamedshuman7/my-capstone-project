@@ -1,0 +1,19 @@
+.show_list {
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.show_list_heading {
+  display: flex;
+  align-items: center;
+  font-size: 26px;
+  color: #ffe400;
+}
+
+.show_list_fs {
+  display: flex;
+  align-items: center;
+}
